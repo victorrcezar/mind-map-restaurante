@@ -1,0 +1,5 @@
+{
+  "name": "MindMap AI Creator",
+  "description": "An interactive tool to create, edit, and visualize mind maps. Features AI-powered generation from text prompts or by analyzing existing mind map images.",
+  "requestFramePermissions": []
+}
